@@ -1,0 +1,17 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    flex-wrap: wrap;
+}
+
+.link {
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+}
+
+.menu {
+    overflow-wrap: anywhere;
+}

@@ -1,0 +1,12 @@
+.container {
+    margin: 3rem auto;
+    width: 90%;
+    max-width: 40rem;
+    flex-grow: 1;
+}
+
+.main {
+    min-height: 100vh;    
+    display: flex;
+    flex-direction: column;
+}
